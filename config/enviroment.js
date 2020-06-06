@@ -53,8 +53,8 @@ const production = {
     port: 587,
     secure: false, // true for 465, false for other ports
     auth: {
-      user: 'rishab.sharda06@gmail.com', // generated gmail user
-      pass: 'bloodymonu', // generated gmail password
+      user: 'avinash9999yadav@gmail.com', // generated gmail user
+      pass: 'Avinash@2626', // generated gmail password
             }
         },
         google_client_id:'430938549612-8jgilqm01hu0ingj4hqfcq1v7p8gptrl.apps.googleusercontent.com',
